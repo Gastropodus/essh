@@ -1,1 +1,1 @@
-/home/adminulitka/Projects/Personal/essh/essh.sh
+../../essh.sh
